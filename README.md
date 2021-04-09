@@ -5,7 +5,9 @@ This repo is part of a 6 video series about login/signup and CRUD operations usi
 A simple React application to signup to a Dataswift Account using hat-js
 
 ## Getting Started with Dataswift Auth
-### `npm install`
+``` 
+npm install 
+```
 
 ## Create an account
 Visit the Developer Portal on developers.dataswift.io and create your account.
